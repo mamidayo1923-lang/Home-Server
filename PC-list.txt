@@ -4,4 +4,8 @@
  RAM:DDR4-16GB
  SSD:M.2(NVme)512G
  OS:UbuntuDesktop26.0.1(LTS)
- 
+ PSU:Dell公式ACアダプターミッキー型65W(90W電源購入要検討)
+ BATT:No
+ COOL:対策なし。対策要検討。
+ Other:RDP(TailScale)導入済み
+       Cloudflare Tunnel/Docker(Nginx+PHP-FPM)+MariaDB
