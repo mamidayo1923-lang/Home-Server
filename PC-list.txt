@@ -1,4 +1,4 @@
-*PC-1
+*NP-1
  DellLatitude5301
  CPU:Intel-Gen10-10210U-i5
  RAM:DDR4-16GB
