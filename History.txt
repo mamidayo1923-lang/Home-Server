@@ -1,5 +1,5 @@
-<h1>Home-Server</h1>
-<h3>History</h3>
+--Home-Server--
+~History
 *2026/09/24(His.1)
  秋葉原パソコン工房2階ジャンクコーナーにてDell-Latitude5310を購入。
  CPU:Intel-Gen10-10210U-i5
