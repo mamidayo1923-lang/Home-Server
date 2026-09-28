@@ -1,3 +1,4 @@
+~NotePC
 *NP-1
  DellLatitude5301
  CPU:Intel-Gen10-10210U-i5
