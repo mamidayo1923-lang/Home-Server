@@ -1,0 +1,13 @@
+~PC
+CPU:IntelGen6i5~(2コア2スレッド~)
+RAM:8GB~
+Ports:LANPort1Gbps~
+      USB-A Gen3.0~
+
+~OS
+*UbuntuDesktop
+*UbuntuServer
+*Windows10~(Windows10なら外部公開非推薦。間にセキュリティ噛ますならあり。）
+*Debian
+*CentOS（開発終了したのでセキュリティ更新なし。外部公開非推薦。間にセキュリティ噛ますならあり。）
+*
